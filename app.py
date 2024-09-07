@@ -16,7 +16,6 @@ ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
 ax.spines['left'].set_visible(False)
 ax.spines['bottom'].set_visible(False)
-ax.set_xticklabels([])
 ax.set_yticklabels([])
 
 
